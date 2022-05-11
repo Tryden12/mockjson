@@ -20,23 +20,3 @@
 "click_action": "dismiss"
 }
 
-{ 
-"type": "text", 
-"text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", "font_size": "12", 
-"font_weight": "normal", 
-"color": "gray", 
-"click_action": "present_popup", 
-"click_action_data": { 
-"data": [ 
-{ 
-"type": "text",
-"text": "This is my popup!", 
-"click_action": "dismiss" 
-} 
-] 
-} 
-}
-
-
-
-
