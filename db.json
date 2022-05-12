@@ -1,130 +1,128 @@
 {
   "text_with_image": [
-    { 
-      "type": "text_with_image", 
-      "title":{ 
-          "text": "Title", 
-          "font_size": "14", 
-          "font_weight": "normal", 
-          "color": "black"
+    {
+        "id": 1,
+        "type": "text_with_image", 
+        "title":{ 
+            "text": "Title", 
+            "font_size": "14", 
+            "font_weight": "normal", 
+            "color": "black"
         },
         "subtitle":{ 
             "text": "Subtitle", 
             "font_size": "14", 
             "font_weight": "normal", 
             "color": "black"
-          },
+        },
         "image": { 
-            "src": "https://www.clerkie.io/static/alex-e0b46011967fc058ff8fdbac2599b55f.jpg", 
-            "name": "Image Name",
-            "height": 30, 
-            "click_action": "dismiss", 
-            "click_action_data": "" 
-        }
-      }
-  ],
-
-
-
-
-
-
-  "text": [
-      { 
-        "type": "text", 
-        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
-        "font_size": "12", 
-        "font_weight": "normal", 
-        "color": "black",
-        "width_percent": 0.5,
-        "alignment": "center",
-        "view_alignment": "center",
-        "click_action": "present_popup",
-        "click_action_data": {
-          "data": [
-            {
-              "type": "text",
-              "text": "This is my popup!",
-              "click_action": "dismiss"
-            }
-          ]
-        }
-      }
-  ],
-
-
-  "dismiss_view_text": [
-      {  
-        "type": "text", 
-        "text": "Dismiss View", 
-        "font_size": "14", 
-        "font_weight": "bold", 
-        "color": "black",
-        "alignment": "center",
-        "view_alignment": "center",
+            "src": "https://www.clerkie.io/static/alex-e0b46011967fc058ff8fdbac2599b55f.jpg" 
+        },
         "click_action": "dismiss"
+    },
+    {
+        "id": 2,
+        "type": "text_with_image", 
+        "title":{ 
+            "text": "Title", 
+            "font_size": "14", 
+            "font_weight": "normal", 
+            "color": "black"
+        },
+        "image": { 
+            "src": "https://www.clerkie.io/static/alex-e0b46011967fc058ff8fdbac2599b55f.jpg"
+        }, 
+        "height": 30, 
+        "click_action": "dismiss" 
+    }
+],
+
+
+
+
+
+"text": [
+  {
+      "id": "lorem_ipsum",
+      "type": "text", 
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.", 
+      "font_size": "12", 
+      "font_weight": "normal", 
+      "color": "black",
+      "width_percent": 0.5,
+      "alignment": "center",
+      "view_alignment": "center",
+      "click_action": "present_popup",
+      "click_action_data": {
+      "data": [
+          {
+          "type": "text",
+          "text": "This is my popup!",
+          "click_action": "dismiss"
+          }
+      ]
       }
-  ],
-
-
-
-
-
-  "present_popup_text": [
-      {  
-        "type": "text", 
-        "text": "Title", 
-        "font_size": "14", 
-        "font_weight": "bold", 
-        "color": "black",
-        "alignment": "center",
-        "view_alignment": "center",
-        "click_action": "present_popup",
-        "click_action_data": {
-          "data": [
-            {
-              "type": "text",
-              "text": "This is my popup!",
-              "click_action": "dismiss"
-            }
-          ]
-        }
+  },
+  {
+      "id": "dismiss_view",
+      "type": "text", 
+      "text": "Dismiss View", 
+      "font_size": "14", 
+      "font_weight": "bold", 
+      "color": "black",
+      "alignment": "center",
+      "view_alignment": "center",
+      "click_action": "dismiss"
+  },
+  {
+      "id": "present_popup_text",
+      "type": "text", 
+      "text": "Title", 
+      "font_size": "14", 
+      "font_weight": "bold", 
+      "color": "black",
+      "alignment": "center",
+      "view_alignment": "center",
+      "click_action": "present_popup",
+      "click_action_data": {
+      "data": [
+          {
+          "type": "text",
+          "text": "This is my popup!",
+          "click_action": "dismiss"
+          }
+      ]
       }
-  ],
-
-
-
-
-
-  "present_fullscreen_popup_text": [
-      { 
-        "type": "text", 
-        "text": "Title", 
-        "font_size": "14", 
-        "font_weight": "bold", 
-        "color": "black",
-        "alignment": "center",
-        "view_alignment": "center",
-        "click_action": "present_popup",
-        "click_action_data": {
-          "data": [
-            {
-              "type": "text",
-              "text": "This is my fullscreen popup!",
-              "click_action": "dismiss"
-            }
-          ]
-        }
+  },
+  {
+      "id": "present_fullscreen_popup_text",
+      "type": "text", 
+      "text": "Title", 
+      "font_size": "14", 
+      "font_weight": "bold", 
+      "color": "black",
+      "alignment": "center",
+      "view_alignment": "center",
+      "click_action": "present_popup",
+      "click_action_data": {
+      "data": [
+          {
+          "type": "text",
+          "text": "This is my fullscreen popup!",
+          "click_action": "dismiss"
+          }
+      ]
       }
+  }
   ],
-
 
 
 
 
 
   "image": [
-    { 
+    {
+        "id": 1,
         "type": "image", 
         "width_percent": 0.5,
         "h2w_ratio": 1.0,
@@ -132,15 +130,14 @@
         "src": "https://i.imgur.com/KavRSSi.jpeg",
         "click_action": "dismiss",
         "click_action_data": {
-          "data": [
+        "data": [
             {
-              "type": "image",
-              "click_action": "dismiss"
+            "type": "image",
+            "click_action": "dismiss"
             }
-          ]
+        ]
         }
-      }
-
+    }
   ],
 
 
@@ -148,12 +145,10 @@
 
 
   "space": [
-      { 
+    {
+        "id": 1,
         "type": "space", 
         "height": 15.0
-      }
-
+    }
   ]
-
-
 }
