@@ -16,7 +16,7 @@
             "color": "black"
         },
         "image": { 
-            "src": "https://www.clerkie.io/static/alex-e0b46011967fc058ff8fdbac2599b55f.jpg" 
+            "src": "https://i.imgur.com/KavRSSi.jpeg" 
         },
         "click_action": "dismiss"
     },
@@ -30,7 +30,7 @@
             "color": "black"
         },
         "image": { 
-            "src": "https://www.clerkie.io/static/alex-e0b46011967fc058ff8fdbac2599b55f.jpg"
+            "src": "https://i.imgur.com/KavRSSi.jpeg"
         }, 
         "height": 30, 
         "click_action": "dismiss" 
