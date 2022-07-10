@@ -65,6 +65,17 @@
       "strExperience": "R",
       "strCollege": "Liberty",
       "strBio": ""
+    },
+    { "strPlayer": "Cody Hollister", 
+      "strPosition": "WR", 
+      "strNumber": "#8",
+      "strHeight": "6-4",
+      "strWeight": "216 lbs",
+      "strAge": "28",
+      "strThumb": "https://static.clubs.nfl.com/image/private/t_editorial_landscape_6_desktop/f_auto/titans/jqohb47ebp4j7ufrm2j8.jpg",
+      "strExperience": "3 years",
+      "strCollege": "Arkansas",
+      "strBio": "The Titans signed Cody Hollister as a free agent following a tryout during 2019 rookie minicamp. He spent the entire 2019 and 2020 campaigns with the team on either the 53-man roster, the practice squad or practice squad/reserve list, appearing in a total of seven contests. The 6-foot-4-inch, 216-pounder is known as a good route-runner and has a large catch radius. A product of the University of Arkansas, Hollister spent his first two NFL seasons a member of the New England Patriots—the first campaign on the practice squad and the second on injured reserve."
     }
   ]
 }
