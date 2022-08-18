@@ -77,5 +77,75 @@
       "strCollege": "Arkansas",
       "strBio": "The Titans signed Cody Hollister as a free agent following a tryout during 2019 rookie minicamp. He spent the entire 2019 and 2020 campaigns with the team on either the 53-man roster, the practice squad or practice squad/reserve list, appearing in a total of seven contests. The 6-foot-4-inch, 216-pounder is known as a good route-runner and has a large catch radius. A product of the University of Arkansas, Hollister spent his first two NFL seasons a member of the New England Patriots—the first campaign on the practice squad and the second on injured reserve."
     }
+  ],
+  "article": [
+    {
+      "title": "Title",
+      "created": "Created",
+      "updated": "Updated",
+      "author": {
+          "image_url": "URL",
+          "author_title": "Author Title"
+      },
+      "article_image": "Article Image",
+      "location": "Location",
+      "body": {
+          "paragraph_1": "Paragraph 1",
+          "paragraph_2": "Paragraph 2",
+          "paragraph_3": "Paragraph 3",
+          "paragraph_4": "Paragraph 4",
+          "paragraph_5": "Paragraph 5",
+          "paragraph_6": "Paragraph 6",
+          "paragraph_7": "Paragraph 7",
+          "paragraph_8": "Paragraph 8",
+          "paragraph_9": "Paragraph 9",
+          "paragraph_10": "Paragraph 10",
+          "paragraph_11": "Paragraph 11",
+          "paragraph_12": "Paragraph 12",
+          "paragraph_13": "Paragraph 13",
+          "paragraph_14": "Paragraph 14",
+          "paragraph_15": "Paragraph 15",
+          "paragraph_16": "Paragraph 16",
+          "paragraph_17": "Paragraph 17",
+          "paragraph_18": "Paragraph 18",
+          "paragraph_19": "Paragraph 19",
+          "paragraph_20": "Paragraph 20",
+          "twitter_blurb": "Twitter blurb url"
+      }
+    },
+    {
+      "title": "Title 2",
+      "created": "Created 2",
+      "updated": "Updated 2",
+      "author": {
+          "image_url": "URL",
+          "author_title": "Author Title 2"
+      },
+      "article_image": "Article Image 2",
+      "location": "Location 2",
+      "body": {
+          "paragraph_1": "Paragraph 1",
+          "paragraph_2": "Paragraph 2",
+          "paragraph_3": "Paragraph 3",
+          "paragraph_4": "Paragraph 4",
+          "paragraph_5": "Paragraph 5",
+          "paragraph_6": "Paragraph 6",
+          "paragraph_7": "Paragraph 7",
+          "paragraph_8": "Paragraph 8",
+          "paragraph_9": "Paragraph 9",
+          "paragraph_10": "Paragraph 10",
+          "paragraph_11": "Paragraph 11",
+          "paragraph_12": "Paragraph 12",
+          "paragraph_13": "Paragraph 13",
+          "paragraph_14": "Paragraph 14",
+          "paragraph_15": "Paragraph 15",
+          "paragraph_16": "Paragraph 16",
+          "paragraph_17": "Paragraph 17",
+          "paragraph_18": "Paragraph 18",
+          "paragraph_19": "Paragraph 19",
+          "paragraph_20": "Paragraph 20",
+          "twitter_blurb": "Twitter blurb url"
+      }
+    }
   ]
 }
